@@ -1,0 +1,50 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using sms.DAL;
+using System.Data.SqlClient;
+using MsgBoxRet;
+namespace sms
+{
+    public partial class crytotaldailyatt : Form
+    {
+          public  static DateTime dt1;
+          public  static DateTime dt2;
+         public static string studentname;
+
+
+         public crytotaldailyatt()
+        {
+
+            InitializeComponent();
+        }
+
+        private void crystalReportViewer1_Load(object sender, EventArgs e)
+        {
+            dataclass dc = new dataclass();
+            SqlConnection sc = dc.con();
+            SqlDataAdapter da = new SqlDataAdapter("sp_total_ATTANDANCE", sc);
+            da.SelectCommand.CommandType = CommandType.StoredProcedure;
+            da.SelectCommand.Parameters.AddWithValue("@dt1", dt1.ToString("MM/dd/yyyy"));   
+            sc.Open();
+            DataSet ds1 = new DataSet();
+            da.Fill(ds1, "TMP_STU_ATTANDANCE");
+            cRpttotaldailyatt rcaw2 = new cRpttotaldailyatt();
+           rcaw2.PrintOptions.PaperOrientation = CrystalDecisions.Shared.PaperOrientation.Portrait;
+           rcaw2.SetDataSource(ds1.Tables["TMP_STU_ATTANDANCE"]);
+           rcaw2.SetParameterValue("dt1", dt1);
+
+            da = new SqlDataAdapter("select * from company_t", sc);
+            ds1 = new DataSet();
+            da.Fill(ds1, "company_t");
+            rcaw2.SetParameterValue("pageheader", ds1.Tables[0].Rows[0]["COM_NAME"].ToString());
+            crystalReportViewer1.ReportSource = rcaw2;
+            crystalReportViewer1.Refresh();
+        }
+    }
+}

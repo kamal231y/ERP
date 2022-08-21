@@ -1,0 +1,352 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using System.Data.SqlClient;
+using MsgBoxRet;
+using sms.DAL;
+using sms.BLClass;
+
+namespace sms
+{
+    public partial class frmCashReceive : Form
+    {
+        public frmCashReceive()
+        {
+
+            MsgBox.backColour = Color.WhiteSmoke;
+            MsgBox.buttonBackColour = Color.Red;
+            MsgBox.buttonForeColour = Color.WhiteSmoke;
+            MsgBox.buttonStyle = FlatStyle.Flat;
+            MsgBox.titleBackColour = Color.Red;
+            MsgBox.titleForeColour = Color.WhiteSmoke;
+            MsgBox.messageBoxStyle = FlatStyle.Flat;
+            MsgBox.foreColour = Color.Red;
+
+            MsgBoxRetType.backColour = Color.WhiteSmoke;
+            MsgBoxRetType.buttonBackColour = Color.Red;
+            MsgBoxRetType.buttonForeColour = Color.WhiteSmoke;
+            MsgBoxRetType.buttonStyle = FlatStyle.Flat;
+            MsgBoxRetType.titleBackColour = Color.Red;
+            MsgBoxRetType.titleForeColour = Color.WhiteSmoke;
+            MsgBoxRetType.messageBoxStyle = FlatStyle.Flat;
+            MsgBoxRetType.foreColour = Color.Red;
+            InitializeComponent();
+        }
+        public void InitGrid()
+        {
+            //LoadGrid();
+            //dataGridView1.Columns["Name"].Width = 40;
+            //dataGridView1.Columns["Description"].Width = 100;
+            ////dataGridView1.Columns["ClassName"].Width = 60;
+            //dataGridView1.Columns["Ledgerdate"].Width = 60;
+            //dataGridView1.Columns["GName"].Width = 60;
+            ////dataGridView1.Columns["userid"].Width = 60;
+            //dataGridView1.Columns["date"].Width = 80;
+            //dataGridView1.Columns["terminal"].Width = 100;
+        }
+        private void LoadGrid()
+        {
+            //dataclass dc = new dataclass();
+            //SqlConnection sc = dc.con();
+            //SqlDataAdapter da = new SqlDataAdapter("select * from View_tblLedger ORDER BY Name", sc);
+            //DataSet ds = new DataSet();
+            //da.Fill(ds);
+            //dataGridView1.DataSource = ds.Tables[0];
+        }
+        private void bindGroup()
+        {
+            dataclass dc = new dataclass();
+            SqlConnection sc = dc.con();
+            SqlDataAdapter da = new SqlDataAdapter(" select * from tblVoucherType", sc);
+            DataSet ds = new DataSet();
+            da.Fill(ds);
+            DataRow row = ds.Tables[0].NewRow();
+            row["vtname"] = "EXP";
+            row["vtid"] = 1;
+            ds.Tables[0].Rows.InsertAt(row, 0);
+            cmbvouchertype.DataSource = ds.Tables[0];
+            cmbvouchertype.DisplayMember = "VTName";
+            cmbvouchertype.ValueMember = "VTid";
+           
+        }
+        private void bindLedger()
+        {
+            dataclass dc = new dataclass();
+            SqlConnection sc = dc.con();
+            SqlDataAdapter da = new SqlDataAdapter(" select * from TBLLEDGER where id !=1 order by name", sc);
+            DataSet ds = new DataSet();
+            da.Fill(ds);
+            DataRow row = ds.Tables[0].NewRow();
+            row["Name"] = "-Select-";
+            row["id"] = 0;
+            ds.Tables[0].Rows.InsertAt(row, 0);
+
+            cmbledger.DataSource = ds.Tables[0];
+            cmbledger.DisplayMember = "Name";
+            cmbledger.ValueMember = "id";
+        }
+
+        private void btn_create_Click(object sender, EventArgs e)
+        {
+            decimal Credit;
+            decimal Debit;
+            if (cmbledger.Text == "-Select-" || cmbledger.Text == "")
+            {
+                MessageBox.Show("Please select Group");
+                return;
+            }
+            if (Cmbcredit.Text == "-Select-" || Cmbcredit.Text == "")
+            {
+                MessageBox.Show("Please select Credit or Debit");
+                return;
+            }
+            else
+            {
+                string value;
+                if (Cmbcredit.Text == "Cr")
+                {
+                    //value = "Credit";
+                    Debit = 0;
+                    Credit = Convert.ToDecimal(txtopeningbalance.Text);
+                }
+                else
+                {
+                    //value ="Debit";
+                    Credit = 0;
+                    Debit=Convert.ToDecimal(txtopeningbalance.Text);
+                }
+                System.DateTime dt1 = Convert.ToDateTime(DateTime.Now, System.Globalization.CultureInfo.InvariantCulture);
+                DateTime dtp11 = Convert.ToDateTime(dtpODate.Value, System.Globalization.CultureInfo.InvariantCulture);
+                //DateTime dt2 = Convert.ToDateTime(dtpODate.Text, System.Globalization.CultureInfo.InvariantCulture);
+               // DateTime dt2 = Convert.ToDateTime((dtpODate.Text).ToString());
+                dataclass dd = new dataclass();
+                SqlConnection sc = dd.con();
+                string str = sc.DataSource.ToString();
+
+                SqlCommand com = new SqlCommand("sprocCashVoucherInsert  " + cmbvouchertype.SelectedValue + "," + txtvno.Text + ",'" + dtp11.ToString("MM/dd/yyyy") + "'," + cmbledger.SelectedValue + ", '" + Credit + "','" + Debit + "','" + txtremarks.Text + "','" + Form1.GlobalLoginUserName.ToString() + "'", sc);
+                SqlDataReader dr;
+                sc.Open();
+                try
+                {
+                    dr = com.ExecuteReader();
+                   // if (dr.RecordsAffected > 0)
+                    //{
+                        MsgBox.ShowBox("Cash Voucher Created...");
+                        Cancil_form();
+                        LoadGrid();
+                    //}
+                    //else
+                    //{
+                    //    MsgBox.ShowBox("This Ledger Name already exist");
+                    //}
+
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+                finally
+                {
+                    sc.Close();
+                }
+            }
+        }
+       
+
+        private void btn_delete_Click(object sender, EventArgs e)
+        {
+            DialogResult dialogResult = MessageBox.Show("Are You Sure Delete Voucher !!!", "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            if (dialogResult == DialogResult.Yes)
+            {
+                try
+                {
+                    dataclass dc = new dataclass();
+                    SqlConnection conn = dc.con();
+                    //if (txtsubjectid.Text == "")
+                    //{
+                    //    MsgBox.ShowBox("Please Click to Detail Row!!!");
+                    //    return;
+                    //}
+                    SqlCommand objCmd = new SqlCommand("DELETE FROM TBLVOUCHER WHERE vno = " + txtvno.Text + " and vtype = " + cmbvouchertype.SelectedValue + "", conn);
+                    SqlDataReader dr;
+                    objCmd.Connection.Open();
+                    dr = objCmd.ExecuteReader(CommandBehavior.CloseConnection);
+                    if (dr.RecordsAffected > 0)
+                    {
+                        MsgBox.ShowBox(" Voucher Deleted Successfully!!!");
+                        Cancil_form();
+                        InitGrid();
+                    }
+                    else
+                    {
+                        MsgBox.ShowBox(" Deleting Error!!!");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+            else if (dialogResult == DialogResult.No)
+            {
+                //do something else
+            }
+        }
+        private void btn_cancel_Click(object sender, EventArgs e)
+        {
+            Cancil_form();
+        }
+
+        private void btn_close_Click(object sender, EventArgs e)
+        {
+            this.Close();
+                
+        }
+        private void Cancil_form()
+        {
+            bindLedger();
+            bindGroup();
+            balance();
+            btn_create.Enabled = true;
+            btn_delete.Enabled = false;
+           // txthead.Text = "";
+            cmbvouchertype.Text = "EXP";
+            txtremarks.Text = "";
+            txtopeningbalance.Text = "";
+            Cmbcredit.Text = "Cr";
+            txtlbalance.Text = "";
+           // dtpODate.Text = DateTime.Now.ToString();
+
+        }
+        
+        private void frmLedgerName_Load(object sender, EventArgs e)
+        {
+            //LoadGrid();
+           
+            Cancil_form();
+        }
+
+        private void balance()
+        {
+            dataclass dc = new dataclass();
+            SqlConnection sc = dc.con();
+            SqlDataAdapter sda = new SqlDataAdapter("select  ISNULL( (sum(credit)-sum(debit)),0) as Balance from tblvoucher where ledgerid=1", sc);
+            DataTable dt = new DataTable();
+            sda.Fill(dt);
+            decimal balance = Convert.ToDecimal(dt.Rows[0]["balance"].ToString());
+            if (Convert.ToDecimal(dt.Rows[0]["balance"].ToString()) < 0)
+                balance = -1 * balance;
+            txtbalance.Text = balance.ToString();
+        }
+
+        private void balancel()
+        {
+            dataclass dc = new dataclass();
+            SqlConnection sc = dc.con();
+            SqlDataAdapter sda = new SqlDataAdapter("select  ISNULL( (sum(credit)-sum(debit)),0) as Balance from tblvoucher where ledgerid='" + cmbledger.SelectedValue + "'", sc);
+            DataTable dt = new DataTable();
+            sda.Fill(dt);
+            //txtlbalance.Text = dt.Rows[0]["balance"].ToString();
+            decimal balance = Convert.ToDecimal(dt.Rows[0]["balance"].ToString());
+            if (Convert.ToDecimal(dt.Rows[0]["balance"].ToString()) < 0)
+                balance = -1 * balance;
+            txtlbalance.Text = balance.ToString();
+        }
+
+        private void cmbvouchertype_Leave(object sender, EventArgs e)
+        {
+            dataclass dc = new dataclass();
+            SqlConnection sc = dc.con();
+            SqlDataAdapter da = new SqlDataAdapter("sprocGetvno ", sc);
+            da.SelectCommand.CommandType = CommandType.StoredProcedure;
+            da.SelectCommand.Parameters.AddWithValue("@vtype", Convert.ToInt32(cmbvouchertype.SelectedValue));
+            
+
+
+            sc.Open();
+
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            if (dt.Rows.Count > 0)
+            {
+                txtvdes.Text = dt.Rows[0][1].ToString();
+                txtvno.Text = dt.Rows[0][0].ToString();
+                
+                txtvno.Focus();
+            }
+        }
+
+        private void txtvdes_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtvno_Leave(object sender, EventArgs e)
+        {
+            dataclass dc = new dataclass();
+            SqlConnection sc = dc.con();
+            SqlDataAdapter da = new SqlDataAdapter("select * from tblvoucher where  vno = " + txtvno.Text + " AND VTYPE=" + cmbvouchertype.SelectedValue + " and ledgerid != 1 ", sc);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            if (dt.Rows.Count > 0)
+            {
+                txtsubjectid.Text = dt.Rows[0]["id"].ToString();
+                cmbledger.SelectedValue = dt.Rows[0]["ledgerid"].ToString();
+                if (Convert.ToDecimal(dt.Rows[0]["credit"].ToString()) > 0)
+                {
+                    txtopeningbalance.Text = dt.Rows[0]["credit"].ToString();
+                    Cmbcredit.Text = "Cr";
+                }
+                else
+                {
+                    txtopeningbalance.Text = dt.Rows[0]["Debit"].ToString();
+                    Cmbcredit.Text = "Dr";
+                }
+                dtpODate.Text = dt.Rows[0]["vdate"].ToString();
+                txtremarks.Text = dt.Rows[0]["description"].ToString();
+                btn_create.Enabled = false;
+                btn_delete.Enabled = true;
+            }
+            else
+            {
+                txtremarks.Text = "";
+                txtopeningbalance.Text = "0.00";
+                cmbledger.SelectedValue = 0;
+                btn_create.Enabled = true;
+                btn_delete.Enabled = true ;
+                
+            }
+
+        }
+
+        private void cmbledger_Leave(object sender, EventArgs e)
+        {
+            balancel();
+            txtremarks.Text = cmbledger.Text;   
+        }
+
+        private void label11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_print_Click(object sender, EventArgs e)
+        {
+            cryvouchercash.vtype = cmbvouchertype.SelectedValue.ToString();
+            cryvouchercash.vno = txtvno.Text;
+            cryvouchercash.onparticular = "Cash A/C";
+            cryvouchercash obj = new cryvouchercash();
+            obj.ShowDialog();
+        }
+
+        private void txtremarks_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

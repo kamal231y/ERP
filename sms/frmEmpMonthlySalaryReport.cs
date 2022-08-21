@@ -1,0 +1,255 @@
+﻿ using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using sms.DAL;
+using System.Data.SqlClient;
+using MsgBoxRet;
+        
+
+namespace sms
+{
+    public partial class frmEmpMonthlySalaryReport : Form
+    {
+        string hostel;
+        string dept;
+        string empName;
+        string mnth;
+        SqlDataReader dr;
+        public frmEmpMonthlySalaryReport()
+        {
+            MsgBox.backColour = Color.WhiteSmoke;
+            MsgBox.buttonBackColour = Color.Red;
+            MsgBox.buttonForeColour = Color.WhiteSmoke;
+            MsgBox.buttonStyle = FlatStyle.Flat;
+            MsgBox.titleBackColour = Color.Red;
+            MsgBox.titleForeColour = Color.WhiteSmoke;
+            MsgBox.messageBoxStyle = FlatStyle.Flat;
+            MsgBox.foreColour = Color.Red;
+
+            MsgBoxRetType.backColour = Color.WhiteSmoke;
+            MsgBoxRetType.buttonBackColour = Color.Red;
+            MsgBoxRetType.buttonForeColour = Color.WhiteSmoke;
+            MsgBoxRetType.buttonStyle = FlatStyle.Flat;
+            MsgBoxRetType.titleBackColour = Color.Red;
+            MsgBoxRetType.titleForeColour = Color.WhiteSmoke;
+            MsgBoxRetType.messageBoxStyle = FlatStyle.Flat;
+            MsgBoxRetType.foreColour = Color.Red;
+            InitializeComponent();
+            Cancil_form();
+            
+        }
+        private void Binddept()
+        {
+            dataclass dc = new dataclass();
+            SqlConnection sc = dc.con();
+            SqlDataAdapter da = new SqlDataAdapter(" select * from DEPARTMENT_T order by DEPT_DESC", sc);
+            DataSet ds = new DataSet();
+            da.Fill(ds);
+            DataRow row = ds.Tables[0].NewRow();
+            row["DEPT_DESC"] = "Select";
+            row["DEPT_ID"] = 0;
+            ds.Tables[0].Rows.InsertAt(row, 0);
+
+            cmbDept.DataSource = ds.Tables[0];
+            cmbDept.DisplayMember = "DEPT_DESC";
+            cmbDept.ValueMember = "DEPT_ID";
+        }
+
+        private void bindEmp()
+        {
+            string dept;
+            if (cmbDept.Text == "" || cmbDept.Text == "Select")
+            {
+                dept = "%";
+            }
+            else
+            {
+                dept = cmbDept.SelectedValue.ToString();
+            }
+
+            dataclass dc = new dataclass();
+            SqlConnection sc = dc.con();
+            SqlDataAdapter da = new SqlDataAdapter(" select EMP_CODE, EMP_NAME  from EMPLOYEE_T where emp_dept_id like '"+dept+"' order by EMP_NAME ", sc);
+            DataSet ds = new DataSet();
+            da.Fill(ds);
+            DataRow row = ds.Tables[0].NewRow();
+            row["EMP_CODE"] = 0;
+            row["EMP_NAME"] = "Select";
+
+            ds.Tables[0].Rows.InsertAt(row, 0);
+
+            cmbEmp.DataSource = ds.Tables[0];
+            cmbEmp.DisplayMember = "EMP_NAME";
+            cmbEmp.ValueMember = "EMP_CODE";
+        }
+       private void Cancil_form()
+        {
+          
+            cmbDept.Text = "Select";
+         
+            dateTimePicker1.Text = DateTime.Now.ToString();
+            dateTimePicker2.Text = DateTime.Now.ToString();
+
+        }
+       private void btn_save_Click(object sender, EventArgs e)
+       {
+           bindData();
+       }
+       private void bindYear()
+       {
+
+           dataclass dc = new dataclass();
+           SqlConnection sc = dc.con();
+           SqlDataAdapter da;
+
+           if (!Form1.board)
+               da = new SqlDataAdapter(" select id,year from Year_T order by id ", sc);
+           else
+               da = new SqlDataAdapter(" select id,year_up as year from Year_T order by id ", sc);
+
+           DataSet ds = new DataSet();
+           da.Fill(ds);
+           DataRow row = ds.Tables[0].NewRow();
+           row["id"] = 0;
+           row["Year"] = "Select";
+
+           ds.Tables[0].Rows.InsertAt(row, 0);
+
+           comboBox1.DataSource = ds.Tables[0];
+           comboBox1.DisplayMember = "Year";
+           comboBox1.ValueMember = "id";
+       }
+
+
+       private void bindData()
+       {
+
+           {
+               
+
+
+               if (rdbothhostel.Checked)
+               {
+                   hostel = "%";
+               }
+               else
+               {
+                   if (radiohostler.Checked)
+                   {
+                       hostel = "H";
+
+                   }
+                   else
+                   {
+                       hostel = "N";
+                   }
+               }
+
+               //if (classname == "1" || classname == "2" || classname == "3" || classname == "4" || classname == "5" || classname == "6" || classname == "7" || classname == "8" || classname == "9" || classname == "10")
+               //{
+                   //cryFeeDetailReport.dt1 = dateTimePicker1.Value;
+                   //cryFeeDetailReport.dt2 = dateTimePicker2.Value;
+               cryVehicleReport.classid = empName;
+                   //cryFeeDetailReport.hostel = hostel;
+
+               cryVehicleReport obj = new cryVehicleReport();
+                   
+                   obj.ShowDialog();
+               //}
+               //else
+               //{
+               //}
+
+           }
+       }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+          
+            Cancil_form();
+            
+        }
+
+  
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+
+
+
+        private void btnPrint_Click(object sender, EventArgs e)
+        {
+            DateTime dt1 = Convert.ToDateTime(dateTimePicker1.Value, System.Globalization.CultureInfo.InvariantCulture);
+            DateTime dt2 = Convert.ToDateTime(dateTimePicker2.Value, System.Globalization.CultureInfo.InvariantCulture);
+            if (cmbDept.Text == "" || cmbDept.Text == "Select")
+            {
+                dept = "%";
+            }
+           else 
+            {
+                dept = cmbDept.SelectedValue.ToString();
+            }
+            if (comboBox1.Text == "" || comboBox1.Text == "Select")
+            {
+                mnth = "%";
+            }
+            else
+            {
+                mnth = comboBox1.SelectedValue.ToString();
+            }
+                
+
+            if (cmbEmp.Text == "" || cmbEmp.Text == "Select")
+            {
+                empName = "%";
+            }
+            else
+            {
+                empName = cmbEmp.SelectedValue.ToString();
+            }
+
+            cryEmpMonthlySalaryReport.empName = empName;
+            cryEmpMonthlySalaryReport.dept = dept;
+            cryEmpMonthlySalaryReport.dt1 = dt1;
+            cryEmpMonthlySalaryReport.dt2 = dt2;
+            cryEmpMonthlySalaryReport.mnth = comboBox1.Text;
+            cryEmpMonthlySalaryReport.month = mnth;
+            cryEmpMonthlySalaryReport obj = new cryEmpMonthlySalaryReport();
+
+            obj.ShowDialog();
+           
+        }
+
+        private void btExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void frmEmpSalaryReport_Load(object sender, EventArgs e)
+        {
+            
+            Binddept();
+            bindYear();
+
+        }
+
+        private void cmbDept_Leave(object sender, EventArgs e)
+        {
+            bindEmp();
+        }
+
+       
+       
+
+       
+       
+    }
+}

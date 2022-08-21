@@ -1,0 +1,790 @@
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\ResolveAssemblyReference.cache
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.AdmitCardDate.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.AgeCertificate.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.attendanceDownload.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.ChooseIcard.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmIssuebookstudent.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmCashBook1.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmDailyDynamic.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmtrailbalance.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmUpdateSession.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.PrintforBig.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Promoteclass.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crptICar.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryInquiryReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryshowstudentAGEwise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmInquiryReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentInquiry.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSubjectClsWise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frminqueryRepory.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crptInqueryreport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmstudentinquery.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryEmpICard.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryReportCardcoscholostics10.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Form3.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmEmpICard.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmReportCardcoscholostic10.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmcoscholistics.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.marksDownload.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.MarksFormat.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.tc_form.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.UploadstudentfeeConsession.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.uploadbusstop.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryagecertificate.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryAttendanceReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crybookreturnstatus.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryEmpMonthlySalaryReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryEmpReceipt1.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryFeeprovisional.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryfeesturucture.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryIssueSaleReport1.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryRegFormSaledesk.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryReportCardAnnualwise1.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryShowsiblingdetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryStockdetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryTCALL.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryvisitorDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryvisitorPass.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryvoucher.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryvoucherbank.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryvouchercash.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryvoucherdetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryvoucherp.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryvoucherreceivebank.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Download.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FeeconcessionExampted.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Feeprovisional.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FeeStructure.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmAdmitCardDateslip.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmAttendanceDetailreport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmBankmaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmbookreturnstatus.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmcashBook.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmCompanyName.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmEmpMonthlySalaryReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmGrEntryByExcelsheetupdate.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmincomeexpense.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmmsgtypemaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmReportCardAnnualwise1.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSetLogo1.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmVisitor.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmVisitorout.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmvoucherDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmYearlyBalance.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Inactive.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryshowstudentcategory.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryshowstudentCLASSwise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryshowstudentsecwise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryshowstudentstrength.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crytotalMNTHLYREPORT.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmmnthlyfeereport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.bloodgroupmaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.castemaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmClass.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Categorymaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Chequesummaryreport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryAwardlist.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentMarksExamwise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmstuFeestart.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crystockDetailSale.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStockdetailReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crystockPurchase.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmstockPurchaseReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryIssuebookReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryIssueStockReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmstockIssueSaleInd.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmstockPurchase.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crybookstatus.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmbookstatus.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryFeeDefaulter.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmFeeDefaulter.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crytotaldailyatt.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmIssuebookreturn.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmBookDetailreport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmArrangebook.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmBOOKFINEMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmBOOKCATEGORY.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryExpense.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryReceiptDetailReporttotal.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.feeDetailReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmBankReceive.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmCashReceive.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmDayBookdetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmLanguageMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmleave.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSMSFORCUSTOMISE.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmstockItemMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmStudentabsentAttandence.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmStudentsmsnamewise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudenttransportsms.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.ReportChequesummary.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmchequebonus.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crySchedulerforabsent.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSchedulingforabsentteacher.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.CryAdmitCard.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crybustime.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryDaybook.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryEmpExp.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryEmpReceipt.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryEmpregpaper.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.CRYofcadmform.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.CRYCBSadmform.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryEmpsal.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryRegFormStudentReceipt.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crysalebalance.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crysaleprint.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crysaleprintrecord.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crysmsDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crydailytime.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crysmssummary.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crystatement.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.EmpExp.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmAchevement.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmadminPermission.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmAttupload.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmClasssyllabusSubjectWise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmConcessionMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmdailytym.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmexamschedule.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmExpense.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmHolidays.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmProcessing.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSiblingDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.CRYadmform.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmEmployeeAttendanceIN.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmEmployeeAttendanceOUT.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryAttendanceDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmAttendanceDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmRegMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmProfitAndLoss.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmDayBook.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryGatePass.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmEmpAttendance.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmEmployeeAttendance.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmEventSMS.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmGatePass.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryICard.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmICard.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryCC.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmCC.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryClassFeeReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmCommentMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmFeeCollectionComment.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryDetailSale.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSalary.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSaleDetailReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmFeeReciptUP.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSetting.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryScheduler.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmClassScheduling.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmScheduling.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSmsBalance.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmsmsReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmsmssummary.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmstuAttupload.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentResultSMS.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmStudySchedule.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmteacherSubject.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Frmperiod.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentMarksEntrySubjectWiseScholosticB.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentMarksEntrySubjectWiseCoscholostic.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryPurchaseReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryIssuePurchaseReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmAllowance.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSetLogo.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentMarksEntrySubjectWise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentReportInExcel.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmCBSESUBNROLL.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmUPLOAD.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmVendor.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\WindowsFormsApplication7.frmWebcam.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.SUBJECTExcelsheet.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmAWRDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.EmployeeRegistration.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmAdmission.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmbookdetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmBookReturn.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmDocumentMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmFeeReminder.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmGrEntryByExcelsheet.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmIssueBook.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmBankVoucher.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmCashVoucher.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmJournalVoucher.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmLedgerDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSubjectMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmPublicationMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmBookNameMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmRackBinMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmrackMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryTCDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentOldDuesClassWise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmTcDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryTC.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmTC.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmIssueSaleInd.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frm_Indivisual_Sale.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.crySale.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSaleReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmPurchaseReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryStockPublisherWise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStockReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryIssueSaleReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryPurchase.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmbookgroup.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmIssueSale.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmPurchase.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmGroupInventry.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmPublisherMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmBookItemMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmDbBackup.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentCardNo.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmGroupMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmPrinXIILOCForm.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryFeeDetailsReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmFeeDetailsReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryannualcrosslist.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryRegIX.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryReportCardtermWise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryReportResult.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryXLOCForm.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmAnnuallist.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmEmployeeallsms.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmemployeeindividualsms.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmPrinLOCForm.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryFeeReminder.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryDemandRegisterReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryStudentOldDuesClassWise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmDemandRegisterReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryDailyScrollReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmBackup.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmChangePassword.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmCreateUserName.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmDailyScrollReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryReportcardAnnual.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryReportCardAnnualwise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmHouseMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmPermission.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmReportCardAnnualNew.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmReportCardAnnualwise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmReportCardNew.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryDuesBalance.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryEmpReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmEmpDetailReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryEmpSalaryReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmEmpSalaryReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryVehicleReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmEmployeeSalary.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmReportCard.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmRestoreDatabase.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmResultReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentallsms.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmstudentAttendance.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentindividualsms.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentMarksRollwise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentMarksStudentWise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmVehicleMake.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmVehicleReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryBusRouteReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmBusRouteReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryBusStopReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmBusStopReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryFeeDetailReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryFeeReceiptReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmFeeDetailReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryReceiptDetailReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmFeeRecieptReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmVehicleType.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.ReceiptDetailReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.CryExemptedFeeReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FeeExemtedReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmDuesbalance.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentSubject.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryShowAdmissionDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmFeeRecipt.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentFee.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryAdmCard.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryRegFormSaleREport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmDescriptiveIndicators.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmHosteler.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmSetBusRoute.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmStuBusstop.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmStudentRoll.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.vehiclemaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmroute.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.CryExamschedule.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryIXPrintRegForm.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryIXRegForm.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.CryReportCard.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmAdmissinTestSchedule.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmAdmissionTestResult.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmCityMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmClassFee.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmClasssubjectMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmDepartmentMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmDesignationMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmFeeHead.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmLedgerName.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmPrinRegForm.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryRegistrationReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmRegistrationFormSale.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmRegistrationReport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmRegFrmSaleDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryAdmissionTestResultDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryConfirmAdmission.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryEmployeeDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryRegFormSale.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.cryshowstudentdetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.CryStuAttandence.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmConfirmAdmission.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.EHead.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FeeExampted.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Form1.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Frm_Colection.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmLedgerHead.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmAreaMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Frmbusstop.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmClassFeeSingle.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmGradCoScholasticArea.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmGrading1.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmGrDetail.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSectionMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStateMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmStudentAttandence.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentGrade.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmStudentMarks.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmStudentRegistration.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSubjectCategory.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSubjectMarks.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmSubjectSubCategory.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmTblSubjectMaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.heightmaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Login.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.occupation.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Properties.Resources.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Qualification.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Receiptsummaryreport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.RegistrationFormClass.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Religionmaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.ReportCard.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.ReportCardtermwise.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.ReportCardtermwiseNew.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Reportfeedetail1.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.reportfeereceiptreport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Reportreceiptsummary.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.showstudentfeeledger.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.EmployeeRegistrationDetail1.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.studentregistration.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.FrmStudentrollno.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.SubjectMarks.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.teethmaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.UploadData.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.uploadData1.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Uploadstudentfee.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.VehicleModel.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.visionmaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.Visitordetailreport.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.weightmaster.resources
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.csproj.GenerateResource.Cache
+F:\School 2020\UP\SMS2.0.0\sms\bin\Release\sms.exe.config
+F:\School 2020\UP\SMS2.0.0\sms\obj\Release\sms.frmIssuebookemployee.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\ResolveAssemblyReference.cache
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.AdmitCardDate.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.AgeCertificate.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.attendanceDownload.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.ChooseIcard.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryEntryvoucherDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryRegReceipt.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmBalanceDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmCashBook1.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmDailyDynamic.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmEntryVoucher.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmEntryvoucherDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmlatefeeMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmstuAttuploadanual.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmtrailbalance.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmUpdateSession.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.PrintforBig.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Promoteclass.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crptICar.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryInquiryReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryshowstudentAGEwise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmInquiryReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentInquiry.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSubjectClsWise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frminqueryRepory.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crptInqueryreport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmstudentinquery.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryEmpICard.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryReportCardcoscholostics10.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Form3.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmEmpICard.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmReportCardcoscholostic10.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmcoscholistics.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.marksDownload.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.MarksFormat.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.tc_form.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.UploadstudentfeeConsession.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.uploadbusstop.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryagecertificate.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryAttendanceReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crybookreturnstatus.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryEmpMonthlySalaryReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryEmpReceipt1.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryFeeprovisional.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryfeesturucture.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryIssueSaleReport1.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryRegFormSaledesk.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryReportCardAnnualwise1.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryShowsiblingdetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryStockdetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryTCALL.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryvisitorDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryvisitorPass.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryvoucher.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryvoucherbank.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryvouchercash.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryvoucherdetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryvoucherp.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryvoucherreceivebank.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Download.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FeeconcessionExampted.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Feeprovisional.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FeeStructure.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmAdmitCardDateslip.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmAttendanceDetailreport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmBankmaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmbookreturnstatus.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmcashBook.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmCompanyName.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmEmpMonthlySalaryReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmGrEntryByExcelsheetupdate.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmincomeexpense.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmmsgtypemaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmReportCardAnnualwise1.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSetLogo1.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmVisitor.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmVisitorout.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmvoucherDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmYearlyBalance.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Inactive.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryshowstudentcategory.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryshowstudentCLASSwise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryshowstudentsecwise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryshowstudentstrength.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crytotalMNTHLYREPORT.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmmnthlyfeereport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.bloodgroupmaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.castemaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmClass.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Categorymaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Chequesummaryreport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryAwardlist.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentMarksExamwise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmstuFeestart.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crystockDetailSale.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStockdetailReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crystockPurchase.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmstockPurchaseReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryIssuebookReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryIssueStockReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmstockIssueSaleInd.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmstockPurchase.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crybookstatus.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmbookstatus.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryFeeDefaulter.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmFeeDefaulter.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crytotaldailyatt.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmIssuebookreturn.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmIssuebookemployee.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmBookDetailreport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmArrangebook.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmBOOKFINEMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmBOOKCATEGORY.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryExpense.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryReceiptDetailReporttotal.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.feeDetailReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmBankReceive.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmCashReceive.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmDayBookdetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmLanguageMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmleave.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSMSFORCUSTOMISE.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmstockItemMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmStudentabsentAttandence.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmStudentsmsnamewise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudenttransportsms.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.ReportChequesummary.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmchequebonus.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crySchedulerforabsent.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSchedulingforabsentteacher.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.CryAdmitCard.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crybustime.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryDaybook.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryEmpExp.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryEmpReceipt.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryEmpregpaper.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.CRYofcadmform.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.CRYCBSadmform.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryEmpsal.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryRegFormStudentReceipt.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crysalebalance.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crysaleprint.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crysaleprintrecord.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crysmsDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crydailytime.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crysmssummary.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crystatement.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.EmpExp.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmAchevement.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmadminPermission.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmAttupload.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmClasssyllabusSubjectWise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmConcessionMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmdailytym.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmexamschedule.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmExpense.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmHolidays.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmProcessing.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSiblingDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.CRYadmform.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmEmployeeAttendanceIN.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmEmployeeAttendanceOUT.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryAttendanceDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmAttendanceDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmRegMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmProfitAndLoss.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmDayBook.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryGatePass.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmEmpAttendance.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmEmployeeAttendance.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmEventSMS.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmGatePass.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryICard.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmICard.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryCC.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmCC.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryClassFeeReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmCommentMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmFeeCollectionComment.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryDetailSale.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSalary.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSaleDetailReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmFeeReciptUP.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSetting.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryScheduler.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmClassScheduling.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmScheduling.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSmsBalance.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmsmsReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmsmssummary.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmstuAttupload.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentResultSMS.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmStudySchedule.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmteacherSubject.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Frmperiod.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentMarksEntrySubjectWiseScholosticB.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentMarksEntrySubjectWiseCoscholostic.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryPurchaseReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryIssuePurchaseReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmAllowance.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSetLogo.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentMarksEntrySubjectWise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentReportInExcel.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmCBSESUBNROLL.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmUPLOAD.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmVendor.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\WindowsFormsApplication7.frmWebcam.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.SUBJECTExcelsheet.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmAWRDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.EmployeeRegistration.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmAdmission.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmbookdetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmBookReturn.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmDocumentMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmFeeReminder.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmGrEntryByExcelsheet.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmIssueBook.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmBankVoucher.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmCashVoucher.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmJournalVoucher.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmLedgerDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSubjectMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmPublicationMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmBookNameMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmRackBinMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmrackMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryTCDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentOldDuesClassWise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmTcDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryTC.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmTC.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmIssueSaleInd.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frm_Indivisual_Sale.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.crySale.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSaleReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmPurchaseReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryStockPublisherWise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStockReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryIssueSaleReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryPurchase.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmbookgroup.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmIssueSale.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmPurchase.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmGroupInventry.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmPublisherMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmBookItemMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmDbBackup.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentCardNo.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmGroupMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmPrinXIILOCForm.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryFeeDetailsReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmFeeDetailsReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryannualcrosslist.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryRegIX.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryReportCardtermWise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryReportResult.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryXLOCForm.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmAnnuallist.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmEmployeeallsms.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmemployeeindividualsms.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmPrinLOCForm.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryFeeReminder.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryDemandRegisterReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryStudentOldDuesClassWise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmDemandRegisterReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryDailyScrollReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmBackup.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmChangePassword.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmCreateUserName.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmDailyScrollReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryReportcardAnnual.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryReportCardAnnualwise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmHouseMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmPermission.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmReportCardAnnualNew.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmReportCardAnnualwise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmReportCardNew.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryDuesBalance.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryEmpReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmEmpDetailReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryEmpSalaryReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmEmpSalaryReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryVehicleReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmEmployeeSalary.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmReportCard.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmRestoreDatabase.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmResultReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentallsms.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmstudentAttendance.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentindividualsms.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentMarksRollwise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentMarksStudentWise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmVehicleMake.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmVehicleReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryBusRouteReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmBusRouteReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryBusStopReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmBusStopReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryFeeDetailReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryFeeReceiptReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmFeeDetailReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryReceiptDetailReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmFeeRecieptReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmVehicleType.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.ReceiptDetailReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.CryExemptedFeeReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FeeExemtedReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmDuesbalance.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentSubject.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryShowAdmissionDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmFeeRecipt.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentFee.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryAdmCard.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryRegFormSaleREport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmDescriptiveIndicators.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmHosteler.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmSetBusRoute.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmStuBusstop.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmStudentRoll.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.vehiclemaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmroute.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.CryExamschedule.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryIXPrintRegForm.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryIXRegForm.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.CryReportCard.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmAdmissinTestSchedule.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmAdmissionTestResult.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmCityMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmClassFee.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmClasssubjectMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmDepartmentMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmDesignationMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmFeeHead.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmLedgerName.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmPrinRegForm.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryRegistrationReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmRegistrationFormSale.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmRegistrationReport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmRegFrmSaleDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryAdmissionTestResultDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryConfirmAdmission.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryEmployeeDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryRegFormSale.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.cryshowstudentdetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.CryStuAttandence.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmConfirmAdmission.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.EHead.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FeeExampted.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Form1.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Frm_Colection.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmLedgerHead.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmAreaMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Frmbusstop.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmClassFeeSingle.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmGradCoScholasticArea.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmGrading1.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmGrDetail.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSectionMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStateMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmStudentAttandence.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentGrade.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmStudentMarks.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmStudentRegistration.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSubjectCategory.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSubjectMarks.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmSubjectSubCategory.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.frmTblSubjectMaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.heightmaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Login.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.occupation.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Properties.Resources.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Qualification.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Receiptsummaryreport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.RegistrationFormClass.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Religionmaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.ReportCard.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.ReportCardtermwise.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.ReportCardtermwiseNew.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Reportfeedetail1.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.reportfeereceiptreport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Reportreceiptsummary.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.showstudentfeeledger.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.EmployeeRegistrationDetail1.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.studentregistration.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.FrmStudentrollno.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.SubjectMarks.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.teethmaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.UploadData.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.uploadData1.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Uploadstudentfee.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.VehicleModel.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.visionmaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.Visitordetailreport.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.weightmaster.resources
+E:\ERP SOFTWARE\UP\DEMO UP\sms\obj\Release\sms.csproj.GenerateResource.Cache
+E:\ERP SOFTWARE\UP\DEMO UP\sms\bin\Release\sms.exe.config
